@@ -32,8 +32,8 @@ headers = {
 
 data = {
   'action': 'login',
-  'username': 'quays3te86',
-  'password': 'B0j@ckson'
+  'username': 'username',
+  'password': 'password'
 }
 
 s = requests.Session()
